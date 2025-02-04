@@ -9,4 +9,4 @@ createRoot(document.getElementById('root')).render(
     <Nav />
     <Cal />
   </StrictMode>,
-)
+);
